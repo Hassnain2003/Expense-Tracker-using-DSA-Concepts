@@ -1,12 +1,8 @@
 # Expense-Tracker-using-DSA-Concepts
 Expense Tracker Application
 Overview
-The Expense Tracker is a comprehensive C++ application developed under the supervision of our course instructor, Maam Maryam Aslam, as a final project for the 3rd-semester Data Structures and Algorithms (DSA) course. This project showcases our ability to implement various DSA concepts in a real-world application, ensuring a well-structured and efficient codebase.
+The Expense Tracker is a comprehensive C++ final project for the 3rd-semester Data Structures and Algorithms (DSA) course. This project showcases our ability to implement various DSA concepts in a real-world application, ensuring a well-structured and efficient codebase.
 
-Team Members
-Hafsa Anwar
-Nimra Arif
-Mohammad Hassnain Abbas
 Project Features
 User Account Management
 Secure login and account creation.
@@ -26,8 +22,6 @@ Displaying top and lowest expenses using priority queues for better financial in
 Technology Stack
 Programming Language: C++
 Libraries: Standard Template Library (STL) for data structures and file handling
-Graphics: SFML (Simple and Fast Multimedia Library) for user interface development
-Implementation Details
 The Expense Tracker application intricately implements various data structures and algorithms to provide an efficient and user-friendly experience. The following key components were developed:
 
 User Management: Hash tables are used for efficient management and retrieval of user data.
@@ -39,6 +33,3 @@ A video featuring Visual Studio is included in the repository, providing a first
 
 Conclusion
 This project is a testament to our dedication, collaboration, and technical expertise. It represents a significant milestone in our academic journey and showcases our ability to tackle real-world problems through innovative software solutions.
-
-We welcome any inquiries or opportunities for collaboration and look forward to continuing to make meaningful contributions in the field of computer science.
-
